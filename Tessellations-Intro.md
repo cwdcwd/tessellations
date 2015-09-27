@@ -5,4 +5,4 @@
 
 When repeating something over and over to solve a problem, you can start to see repeated behaviours in what you're doing. These can be "boxed up" and grouped together into reusable components. This is the essence of most modern, and certainly Object-Oriented, programming. We can create encapuslations around common functionality like grabbing input from a keyboard or drawing something on a screen. We can then further box up these components into larger and larger systems of components. And thus we arrive at the heart of this blog series: **Patterns**. 
 
-Patterns are repeatable structures that are abstracted from specific implementaions.
+Patterns are repeatable structures that are abstracted from specific implementaions. In this series I'm going to opine about a number of different patterns and their uses. I'll refer to the quintessential "Gang of Four" patterns as well as some of patterns by Martin Fowler.

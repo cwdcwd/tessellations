@@ -9,9 +9,10 @@ When repeating something over and over to solve a problem, you can start to see 
 
 Patterns are repeatable structures that are abstracted from specific implementaions. In this series I'm going to opine about a number of different patterns and their uses. I'll refer to the quintessential "Gang of Four" patterns as well as some of patterns by Martin Fowler and some generic patterns that I've used in the trenches. 
 
-Specifically I'll cover some patterns such  as the Observer, the Decorator, the Façade, the Singleton, and the Factory. We'll focus on following "principles of reusable object-oriented design. Namely:
+Specifically I'll cover some patterns such  as the Observer, the Decorator, the Façade, the Singleton, and the Factory. I'll also discuss the GoF's "principles of reusable object-oriented design. Namely:
+
 - Program to an interface, not an implementation
-- 
+- Favor object composition over class inheritence
 
 I'll also try and provide as many reference examples as possible and specific use cases. By the end we'll hopefully have journeyed together to a greater understanding of patterned software development and assembled an open source library of reference-able code snippets to use in our day to day development efforts.
 

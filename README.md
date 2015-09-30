@@ -1,5 +1,9 @@
-[![Stories in Ready](https://badge.waffle.io/cwdcwd/tessellations.png?label=ready&title=Ready)](https://waffle.io/cwdcwd/tessellations)
 # tessellations
+
+### #Status: 
+
+- [![Stories in Ready](https://badge.waffle.io/cwdcwd/tessellations.png?label=ready&title=Ready)](https://waffle.io/cwdcwd/tessellations)
+- [![Stories in Progress](https://badge.waffle.io/cwdcwd/tessellations.svg?label=ready&title=Progress)](http://waffle.io/cwdcwd/tessellations)
 
 This repo is to house the blog posts and code examples for the Tessellations project series.
 

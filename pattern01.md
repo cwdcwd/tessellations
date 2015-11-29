@@ -36,13 +36,17 @@ There can, and should, be more than one Concrete implementation of Factory and P
 
 #### Example use cases: 
 
-#### Code Examples:
-- Node
-- Java
-- Swift
-- C++ 
-- 
+#### Some Code Examples from around the interwebs:
+- [Node](http://thenodeway.io/posts/designing-factories/)
+- [Java](http://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm)
+- [Swift](https://github.com/ochococo/Design-Patterns-In-Swift#creational)
+- [C++](http://www.netobjectives.com/resources/books/design-patterns-explained/cpp-code-examples/chapter11)
 
 #### Summary
 
 *CLOSE UP HERE* 
+
+#### Further Reading:
+- [GoF: Design Patterns: Abstract Factory](http://www.informit.com/articles/article.aspx?p=1398599)
+- [Design Patterns in Swift](http://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift)
+- [Computer Science Design Patterns](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Abstract_Factory_

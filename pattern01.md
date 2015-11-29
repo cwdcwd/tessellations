@@ -49,4 +49,4 @@ There can, and should, be more than one Concrete implementation of Factory and P
 #### Further Reading:
 - [GoF: Design Patterns: Abstract Factory](http://www.informit.com/articles/article.aspx?p=1398599)
 - [Design Patterns in Swift](http://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift)
-- [Computer Science Design Patterns](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Abstract_Factory_
+- [Computer Science Design Patterns](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Abstract_Factory)

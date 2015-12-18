@@ -29,8 +29,12 @@ There can, and should, be more than one Concrete implementation of Factory and P
 
 ## code snippets here? 
 
-#### Benefits: So what does this pattern give you exactly? 
+#### Benefits: So what does this pattern give you exactly?
 
+Paraphrasing GoF, there are 4 main consequences of implementing this pattern:
+
+1. Isolation of concrete classes. What this means for us is that the implementations of specific details of the factory and the factory products are kept out of the client code. Instances of these objects are manipulated through their abstract interfaces and never directly.
+2. Product "families" can we swapped out easily. 
 
 #### Caveats: 
 
